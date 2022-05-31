@@ -228,7 +228,7 @@ h2{
     justify-content: flex-start;
     gap: 20px;
     padding-left: 31px;
-    display: flex;
+    display: none;
     transition-duration: .5s;
     }
 
